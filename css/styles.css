@@ -281,6 +281,26 @@ a {
   margin-right: 0.5rem;
 }
 
+.doc-block li strong {
+  color: var(--text);
+}
+
+.doc-options li::before {
+  content: none;
+}
+
+.doc-options {
+  margin-top: 0.75rem;
+}
+
+.doc-options li {
+  line-height: 1.5;
+}
+
+.doc-options li + li {
+  margin-top: 0.75rem;
+}
+
 .timeline {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));

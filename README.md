@@ -8,6 +8,29 @@ Red social multiplataforma (web, Android e iOS) centrada en la **privacidad** y 
 - Máximo de **4 stories al día** por usuario. Las stories desaparecen a las 24 horas.
 - Privacidad por diseño: audiencias por publicación, sin rastreo y con control total sobre los datos.
 
+## Puntos clave de la aplicación
+
+### Opciones
+
+Cada preferencia funciona en niveles, del más restrictivo al más abierto:
+
+| Opción | Niveles |
+| --- | --- |
+| Privacidad | `0` Oculta · `1` Seguidores · `2` pública |
+| Perfil | `0` infantil · `1` personal · `2` profesional |
+| Notificaciones | `0` todas · `1` esenciales · `2` ninguna |
+| Sonidos | `0` reproducir · `1` silenciar |
+| Personalización | `0` toda · `1` tema básico |
+| Privacidad y contraseña | gestión de credenciales y acceso protegido |
+
+### Mi perfil
+
+- Nombre y logo/foto.
+- Colores de perfil.
+- Música de perfil.
+- Sonido de perfil.
+- Seguidores.
+
 ## Landing
 
 La documentación pública del proyecto vive en `index.html`. Es un sitio estático sin dependencias ni rastreadores:
